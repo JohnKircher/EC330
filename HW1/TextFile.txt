@@ -1,0 +1,5 @@
+C++ program which receives a file name as command line argument.
+It then reads all the lines of text in the input file, and prints out the longest line in the file. 
+If there are multiple lines of the same length, the first longest line should be returned. 
+Your program should have one single line of output, which is the longest line in the file. 
+If the input file is empty then your program should not print anything.
